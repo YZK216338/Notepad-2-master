@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="0.7">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:id="@+id/Yello"
+        android:background="@color/CanaryYellow"
+        android:onClick="ColorSelect"
+        />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:id="@+id/mediumgreen"
+        android:background="@color/MediumGreen"
+        android:layout_weight="0.1"
+        android:onClick="ColorSelect"
+        />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:id="@+id/Red"
+        android:layout_weight="0.1"
+        android:background="@color/Red"
+        android:onClick="ColorSelect"
+        />
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:id="@+id/Fuchsia"
+        android:background="@color/Fuchsia"
+        android:onClick="ColorSelect"
+        />
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:id="@+id/MediumPurple"
+        android:background="@color/MediumPurple"
+        android:onClick="ColorSelect"
+        />
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:id="@+id/Lightsalmon"
+        android:background="@color/Lightsalmon"
+        android:onClick="ColorSelect"
+        />
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.1"
+        android:id="@+id/Aqua"
+        android:background="@color/Aqua"
+        android:onClick="ColorSelect"
+        />
+
+</LinearLayout>

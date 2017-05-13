@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslistitem.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\noteslistitem.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_layout.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\noteslist_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bg_select_layout.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\dialog_bg_select_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    }
+]

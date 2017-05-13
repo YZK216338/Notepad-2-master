@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_folder_notes.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_notes.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    }
+]

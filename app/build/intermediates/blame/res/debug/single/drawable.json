@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_revert.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_focused.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\contact_edit_edittext_focused.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editview_bg.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\editview_bg.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tianjia.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\tianjia.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addnote.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\addnote.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timg.jpg",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\timg.jpg"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search1.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\search1.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\se.jpg",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\se.jpg"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_normal.xml",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\contact_edit_edittext_normal.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "D:\\Android studio\\workspace\\Notepad-2-master\\app\\src\\main\\res\\drawable\\bg.png"
+    }
+]

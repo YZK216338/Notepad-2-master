@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="CanaryYellow">#FFFFCC</color>
+    <color name="MediumGreen">#b300ff</color>
+    <color name="Red">#9000ff</color>
+    <color name="Fuchsia">#dda0a2</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="Aqua">	#00FFFF</color>
+    <color name="Lightsalmon">#FFA07A</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+</resources>
